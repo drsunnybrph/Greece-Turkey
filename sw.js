@@ -4,7 +4,7 @@
                 with NO cache-version bump ever again.
    Icons / currency API / other GETs → stale-while-revalidate: instant from
                 cache, refreshed quietly in the background. */
-const CACHE = 'gt2026-0bdd849';                 // ← last bump you'll ever need
+const CACHE = 'gt2026-673cf90';                 // ← last bump you'll ever need
 const CORE = ['index.html', 'icon.png', 'apple-touch-icon.png'];
 const NET_TIMEOUT = 3000;                  // ms before falling back to cache on a slow network
 
